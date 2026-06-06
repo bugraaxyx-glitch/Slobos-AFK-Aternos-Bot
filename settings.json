@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ebencraft.aternos.me:",
+    "ip": "ebencraft.aternos.me",
     "port": 16416,
     "version": "",
     "try-creative": false
